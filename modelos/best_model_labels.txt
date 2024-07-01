@@ -1,0 +1,14 @@
+0 Ambulance
+1 Barge
+2 Bicycle
+3 Boat
+4 Bus
+5 Car
+6 Helicopter
+7 Motorcycle
+8 Segway
+9 Snowmobile
+10 Tank
+11 Taxi
+12 Truck
+13 Van
